@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Given_A_FizzBuzz_Calculator", "Given_A_FizzBuzz_Calculator\Given_A_FizzBuzz_Calculator.csproj", "{E035B7F7-4D68-41CD-B78F-AF17AA02BBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E035B7F7-4D68-41CD-B78F-AF17AA02BBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E035B7F7-4D68-41CD-B78F-AF17AA02BBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E035B7F7-4D68-41CD-B78F-AF17AA02BBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E035B7F7-4D68-41CD-B78F-AF17AA02BBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

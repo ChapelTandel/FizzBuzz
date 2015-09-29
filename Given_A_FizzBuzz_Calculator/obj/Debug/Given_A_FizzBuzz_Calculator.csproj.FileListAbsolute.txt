@@ -1,0 +1,7 @@
+c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\bin\Debug\Given_A_FizzBuzz_Calculator.dll
+c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\bin\Debug\Given_A_FizzBuzz_Calculator.pdb
+c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\bin\Debug\nunit.framework.dll
+c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\bin\Debug\nunit.framework.xml
+c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\obj\Debug\Given_A_FizzBuzz_Calculator.csprojResolveAssemblyReference.cache
+c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\obj\Debug\Given_A_FizzBuzz_Calculator.dll
+c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\obj\Debug\Given_A_FizzBuzz_Calculator.pdb
