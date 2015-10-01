@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
 using NUnit.Framework;
@@ -39,7 +40,9 @@ namespace Given_A_FizzBuzz_Calculator
         {
             var expected = new List<string> {"Fizz"};
             var fizzBuzzCalculator = new FizzBuzzCalculator();
+
             var actual = fizzBuzzCalculator.Calculate(Enumerable.Range(3, 1));
+
             Assert.That(actual, Is.EqualTo(expected));
         }
     }
@@ -114,14 +117,16 @@ namespace Given_A_FizzBuzz_Calculator
     {
         [TestCase(23,1,"Fizz")]
         [TestCase(25,1,"Buzz")]
+        [TestCase(0,1,"Buzz", ExpectedException = typeof(ArgumentException))]
         [TestCase(1,15, "1,2,Fizz,4,Buzz,Fizz,Whizz,8,Fizz,Buzz,11,Fizz,Fizz,Whizz,FizzBuzz")]
         public void Then_The_Result_Is(int rangeStart, int rangeLength, string expectedWord)
         {
             var expected = expectedWord.Split(',').ToList();
             var fizzBuzzCalculator = new FizzBuzzCalculator();
+
             var actual = fizzBuzzCalculator.Calculate(Enumerable.Range(rangeStart, rangeLength));
+
             Assert.That(actual, Is.EqualTo(expected));
         }
     }
-
 }
