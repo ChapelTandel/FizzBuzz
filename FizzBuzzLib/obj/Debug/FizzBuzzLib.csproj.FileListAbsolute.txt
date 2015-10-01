@@ -1,0 +1,5 @@
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzLib\bin\Debug\FizzBuzzLib.dll
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzLib\bin\Debug\FizzBuzzLib.pdb
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzLib\obj\Debug\FizzBuzzLib.csprojResolveAssemblyReference.cache
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzLib\obj\Debug\FizzBuzzLib.dll
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzLib\obj\Debug\FizzBuzzLib.pdb

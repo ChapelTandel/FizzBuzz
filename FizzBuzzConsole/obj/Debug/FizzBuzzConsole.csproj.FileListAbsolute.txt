@@ -1,0 +1,8 @@
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe.config
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.pdb
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.csprojResolveAssemblyReference.cache
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.exe
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.pdb
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzLib.dll
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzLib.pdb

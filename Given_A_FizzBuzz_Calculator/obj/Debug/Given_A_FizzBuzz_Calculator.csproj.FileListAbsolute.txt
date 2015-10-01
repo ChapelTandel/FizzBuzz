@@ -5,3 +5,5 @@ c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz
 c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\obj\Debug\Given_A_FizzBuzz_Calculator.csprojResolveAssemblyReference.cache
 c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\obj\Debug\Given_A_FizzBuzz_Calculator.dll
 c:\users\ctandel\documents\visual studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\obj\Debug\Given_A_FizzBuzz_Calculator.pdb
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\bin\Debug\FizzBuzzLib.dll
+c:\Users\Ctandel\Documents\Visual Studio 2015\Projects\FizzBuzz\Given_A_FizzBuzz_Calculator\bin\Debug\FizzBuzzLib.pdb
